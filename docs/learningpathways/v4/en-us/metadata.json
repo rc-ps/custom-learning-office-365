@@ -176,7 +176,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Fire it Up.......",
+      "Name": "Rock County Training",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -199,21 +199,12 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        },
- {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }        
+        }      
       ]
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Go Bears",
+      "Name": "Featured Products",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -272,12 +263,39 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        }
+        },
+        {
+          "Id": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/teams.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+          "Name": "OneDrive",
+          "Image": "images/categories/onedrive.png",
+          "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+          "Name": "SharePoint",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+      }        
       ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Things That Never Work",
+      "Name": "All Microsoft Products",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
